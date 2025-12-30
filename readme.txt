@@ -1,0 +1,2 @@
+hi! day 2 learning actually, I pushed a folder to my github titled "learning to use git and github" now I'll be pushing "learning to use unix and unix commands" it probably looks pointless to push this but it's a way for me to stay consistent learning, I'm struggling to make code logic so why not learn something and also add those green boxes to my github haha 
+I'll be learning different commands and be applying them frequently then be pushing and commiting basically till unix commands stick 
